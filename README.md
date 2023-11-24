@@ -2,7 +2,7 @@
 Developing 2 neural network models to retrieve fashion images: From data collection to evaluation of the model
 
 # Data Collection
-This involves scraping product images from 5 categories- Men's Shirts, T-Shirts, Ladies Tops, Kis's Dresses, Ladies Bags and Shoes from 'Flipcart' e-commerce website.
+This involves scraping product images from 6 categories- Men's Shirts, T-Shirts, Ladies Tops, Kis's Dresses, Ladies Bags and Shoes from 'Flipcart' e-commerce website.
 
 # Model Development
 
